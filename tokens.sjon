@@ -1,0 +1,46 @@
+{
+  "name": "Hotcoin",
+  "logoURI": "https://s2.feixiaoquan.com/logo/2/hotcoin.png",
+  "keywords": ["Defi", "hotcoin", "curated"],
+  "tags": {
+    "defi": {
+      "name": "DeFi Token",
+      "description": "Hotcoin Global dex token lists"
+    }
+  },
+  "timestamp": "2020-09-11T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 4,
+      "address": "0xc839A3324C1E93E1Da19b873C860394BF62232c9",
+      "symbol": "HTEC",
+      "name": "HotExchangeCoin",
+      "decimals": 18,
+      "logoURI":"https://s2.bqiapp.com/logo/1/hotexchangecoin.png?x-oss-process=style/coin_72",
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 4,
+      "address": "0x4011cD565c25375905A4D9d74B2BF08b296cDf6E",
+      "symbol": "HOTB",
+      "name": "HotToken",
+      "decimals": 18,
+      "logoURI":"https://s2.bqiapp.com/logo/1/hotbhottoken.png?x-oss-process=style/coin_72",
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 4,
+      "address": "0x799a6779672f8FaB75d738992d07566F855C2f5c",
+      "symbol": "KN95",
+      "name": "KN95 Mask Token",
+      "decimals": 8,
+      "logoURI":"https://s2.bqiapp.com/logo/1/mask.png",
+      "tags": ["defi"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 5
+  }
+}
