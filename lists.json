@@ -1,0 +1,55 @@
+{
+  "name": "SushiSwap",
+  "logoURI": "https://etherscan.io/token/images/sushiswap_32.png",
+  "keywords": ["Defi", "Sushi", "curated"],
+  "tags": {
+    "defi": {
+      "name": "DeFi Token",
+      "description": "Sushiswap Global dex token lists"
+    }
+  },
+  "timestamp": "2020-09-11T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 4,
+      "address": "0x799a6779672f8FaB75d738992d07566F855C2f5c",
+      "symbol": "KN95",
+      "name": "KN95 Mask Token",
+      "decimals": 8,
+      "logoURI":"https://s2.bqiapp.com/logo/1/mask.png",
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 4,
+      "address": "0xfc46b8cda044796fa54d16de5fe3939d6449b019",
+      "symbol": "SUSHI",
+      "name": "SUSHI Token",
+      "decimals": 8,
+      "logoURI":"https://etherscan.io/token/images/sushiswap_32.png",
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 4,
+      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "decimals": 8,
+      "logoURI":"https://etherscan.io/token/images/weth_28.png",
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 4,
+      "address": "0xF123c46a2e06E050944DA848f5394076eE2e0459",
+      "symbol": "USDT",
+      "name": "TetherToken",
+      "decimals": 6,
+      "logoURI":"https://etherscan.io/token/images/tether_32.png",
+      "tags": ["defi"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 5
+  }
+}
